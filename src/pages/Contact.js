@@ -27,7 +27,7 @@ export default function Contact() {
         <div className="section-card animate-delay-1 profile-intro">
           <img src={profilePic} alt="Meghana Jagadish" className="profile-photo" />
           <div className="profile-text">
-            <h3>Hi, I’m Meghana 👋</h3>
+            <h3>Hi, I’m Meghana Jagadish👋</h3>
             <p>
               I enjoy turning complex ideas into impactful software — whether it’s AI-powered tools, full-stack systems, or smart automations.
               <br />

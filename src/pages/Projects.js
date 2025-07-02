@@ -27,7 +27,7 @@ export default function Projects() {
         <div className="project-row right">
           <img src={webIcon} alt="Web Icon" className="project-icon" />
           <div className="project-desc">
-            <h3>Food Surplus Management</h3>
+            <h3>Fitness and Calorie Tracker App</h3>
             <p>
               A full-stack web application designed to assist users in managing their nutrition and fitness goals through intelligent, image-based calorie tracking. The platform uses <span className="tech">Convolutional Neural Networks (CNNs)</span> to classify food items from uploaded images and estimate calorie intake automatically. Additional features include a <span className="tech">BMI calculator</span>, <span className="tech">step tracking</span> via device integration, and guided <span className="tech">breathing exercises</span> for relaxation. Users can securely sign up and manage their profiles through <span className="tech">OAuth-based authentication</span> and <span className="tech">Firebase</span> backend services. The frontend ensures a responsive, interactive experience using efficient <span className="tech">state management</span> for real-time updates and seamless navigation.
             </p>
